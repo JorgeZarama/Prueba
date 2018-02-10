@@ -1,0 +1,3 @@
+def class EY
+
+end
